@@ -15,10 +15,8 @@
 
 
 ## 💻 About Me  
-
-- 🔭 I’m currently working on **exciting projects**  
-- 🌱 I’m learning **Web Development, Cybersecurity, and AI**  
-- 💡 Interested in: **Tech, Security, and Building Tools**  
+   
+- 💡 Interested in: **Cyber Security, and Building Tools**  
 - ⚡ Fun fact: *I love creating and breaking things (ethically 😅)*  
 
 ---
