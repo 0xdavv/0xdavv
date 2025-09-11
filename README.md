@@ -1,35 +1,37 @@
-# HI, I'm David !
+# Hi, I'm Your Name! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?Adenuga123=Adenuga123&color=blue)
-
-## David's GitHub Stats
-
-- **Total Stars Earned:**  
-  ![Stars](https://img.shields.io/github/stars/Adenuga123?color=gold&label=Stars)
-
-- **Total Commits (2025):**  
-  ![Commits](https://img.shields.io/github/commit-activity/y/Adenuga123)
-
-- **Total PRs:**  
-  ![PRs](https://img.shields.io/github/issues-pr/Adenuga123)
-
-- **Total Issues:**  
-  ![Issues](https://img.shields.io/github/issues/Adenuga123)
-
-- **Contributed to (last year):**  
-  ![Contributions](https://img.shields.io/github/contributions/Adenuga123)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat)
 
 ---
 
-## [Your Section Title]
+## 🚀 GitHub Stats
 
-### Coding stats (last 30 days)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
-- Python - 46 hrs 0 mins   
+---
 
+## 📊 Coding Stats (last 30 days)
 
-If you want to contact me, you can do it here:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- Twitter: https://x.com/Adeleke132
-- Instagram: https://www.instagram.com/adenuga664/
-- Website:  adenuga-david.vercel.app
+*(You’ll need to connect your account to [WakaTime](https://wakatime.com/) and set up GitHub Actions for this to update automatically.)*
+
+---
+
+## 💻 About Me
+
+- 🔭 I’m currently working on **[Your Project Name]**
+- 🌱 I’m learning **[Tech/Skill you’re learning]**
+- 💡 Interested in: **Cybersecurity, Web Development, AI** (change as you like)
+- ⚡ Fun fact: *Add something cool/funny about you*
+
+---
+
+## 📬 Connect With Me  
+
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- LinkedIn: [Your Name](https://linkedin.com/in/yourlink)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
