@@ -1,16 +1,35 @@
-## Hi there 👋
+# HI, I'm David !
 
-<!--
-**Adenuga123/Adenuga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?Adenuga123=Adenuga123&color=blue)
 
-Here are some ideas to get you started:
+## David's GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Total Stars Earned:**  
+  ![Stars](https://img.shields.io/github/stars/Adenuga123?color=gold&label=Stars)
+
+- **Total Commits (2025):**  
+  ![Commits](https://img.shields.io/github/commit-activity/y/Adenuga123)
+
+- **Total PRs:**  
+  ![PRs](https://img.shields.io/github/issues-pr/Adenuga123)
+
+- **Total Issues:**  
+  ![Issues](https://img.shields.io/github/issues/Adenuga123)
+
+- **Contributed to (last year):**  
+  ![Contributions](https://img.shields.io/github/contributions/Adenuga123)
+
+---
+
+## [Your Section Title]
+
+### Coding stats (last 30 days)
+
+- Python - 46 hrs 0 mins   
+
+
+If you want to contact me, you can do it here:
+
+- Twitter: https://x.com/Adeleke132
+- Instagram: https://www.instagram.com/adenuga664/
+- Website:  adenuga-david.vercel.app
