@@ -1,14 +1,14 @@
 # Hi, I'm 0xdavv! 👋  
 
-![Profile views](https://komarev.com/ghpvc/?username=Adenuga123&label=Profile%20views&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=0xdavv&label=Profile%20views&color=blue&style=flat)
 
 ---
 
 ## 🚀 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adenuga123&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga123&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xdavv&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdavv&layout=compact&theme=radical" alt="Top Langs" height="165"/>
 </p>
 
 ---
